@@ -382,6 +382,9 @@ section .title::after{
 .skills-content .right .PyQt::before{
     width: 45%;
 }
+.skills-content .right .linux::before{
+    width: 90%;
+}
 .skills-content .right .Csharp::before{
     width: 50%;
 }
